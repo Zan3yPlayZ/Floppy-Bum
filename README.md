@@ -1,2 +1,2 @@
 # Floppy-Bum
-Bang 'er Bum Games
+A Bang 'er Bum Games production.
